@@ -1,11 +1,13 @@
-# Furniture App - Flutter UI
+# Furniture App - Flutter UI 
+
+Screenshots
 
 **Packages used**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 - goole_fonts: [link](https://pub.dev/packages/google_fonts)
 
-**Fonts**
+**Fonts used**
 
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
