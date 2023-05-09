@@ -1,8 +1,6 @@
 # Furniture App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/bkR7naR1efA)
-
-**Packages we are using:**
+**Packages used**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 - goole_fonts: [link](https://pub.dev/packages/google_fonts)
